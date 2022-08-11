@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Visit the page
+https://react-framer-v1-sand.vercel.app/
 ### `npm start`
 
 Runs the app in the development mode.\
